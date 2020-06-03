@@ -4,19 +4,19 @@ This backend is written using FOS rest api bundle. The purpose of hotel app proj
 
 ## Installation
 
-Clone project to your workspace directory.
+Clone project:
 
 ```bash
-git clone git@github.com:wa12rior/hotel-app-rest-api.git
+git clone git@github.com:wa12rior/hotel-app-rest-api.git dir_name
 ```
 
-Use the package manager [`composer`](https://pip.pypa.io/en/stable/) to install dependencies.
+Use the package manager [`Composer`](https://getcomposer.org/download/) to install dependencies.
 
 ```bash
 composer install
 ```
 
-Then just fire up symfony development server using Symfony CLI.
+Then just fire up symfony development server using [`Symfony CLI`](https://symfony.com/download).
 
 ```bash
 symfony serve
@@ -27,4 +27,5 @@ symfony serve
 Kamil Serafin [wa12rior](https://github.com/wa12rior)
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
